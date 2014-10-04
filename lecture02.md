@@ -2,21 +2,61 @@
 
 ## Notes from last time
 
-Tga1/tga1 like A/a
+Papers are on smartsite or linked.
 
-Side board hard to see -- yell or raise a hand.
+Github link in announcements.
 
-Questions, just ask, raise a hand!
+Reading units.
 
-Homework due at beginning
+## Other forms of inheritance:
 
-Papers are on smartsite or linked
+#### sex linked
 
-Genotype vs. phenotype -- always keep in mind which we are talking about. Genotype ratios will diff. from phenotype ratios.
+Notice reciprocity in crosses above.  This doesn't always happen!
 
-Dash vs. minus for phenotypes
+Above we have considered non-sex chromosomes, also called **autosomes**
 
-Mitochondrial replication genes are mitochondrial, control of when the replicate can be nuclear.
+humans have two sex chromosomes X and Y. 1 from each parent, but XX is female, XY male. 
+
+* some plants have sex chromosomes! (and sexually transmitted diseases!)
+* instead of heterozygote or homozygote we say heterogametic or homogametic
+* works same, but genes on X ≠ Y
+
+Drosophila also have XY system
+
+* Draw Punnet square for w+/w+ Drosophila female (red WT) x w male
+* Compare to square for red w+ male x w/w/ female (if time permits)
+* For both show color, sex of F1 and F2 products
+
+<img src="/Users/jri/Documents/courses/bis101/griffiths/ch02/figure_02_19.jpg" style="width: 500px;"/>
+
+Reciprocal crosses not same for sex-linked traits
+
+Not all F1 will be the same
+
+Ratios not the same because gene is not present on both chromosomes.          
+
+#### organellar
+
+Eukaryotes defined by presence of nucleus and organelles
+Some phenotypes defined by organellar (Mitochondria and chloroplast) genes.
+
+***Endosymbiosis***
+
+There are some mitochondrial diseases (some deafness, muscle myopathy)
+
+Mito in mammals -- always maternal
+
+<img src="/Users/jri/Documents/courses/bis101/fall2013/images/mito_pedigree.jpg" style="width: 500px;"/>
+
+**homoplasmy** and **heteroplasmy** which helps explain incomplete penetrance
+
+Not always maternal
+
+- redwoods both mito and cp are male
+- some pine trees, cpDNA male, mtDNA female
+- mussels have double uniparental: F mito is maternal, M mito is paternal
+
 
 ## Mendel's Second Law:
 
