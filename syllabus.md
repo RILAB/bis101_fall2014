@@ -42,38 +42,32 @@ Giedt 1001
 	Office hours: Tues/Thurs 10-11am
 
 ####Robyn Jimenez
-	Office
+	250 Briggs Hall
 	Email: robjimenez@ucdavis.edu
-	Office hours: 
+	Office hours: Tues 3-5pm  
 
 
 ##Course objectives
-This course will enable students to describe the fundamental concepts in transmission, molecular and quantitative genetics. This includes understanding the following:
+This course will enable students to describe the fundamental concepts in transmission, molecular and quantitative genetics. This includes understanding the following:  
 
-*  The meaning of fundamental genetic terms such as allele/locus/genotype/genome, phenotype/trait and heritability  
-*  How alleles and genes segregate  
-*  How alleles and genes influence phenotype/trait display in organisms  
-*  Exceptions to Mendelian genetics  
-*  How molecular biology can be used to manipulate genes and genomics  
-*  How Mendelian genetics and quantitative genetics are connected  
-*  The information available from modern genomics technology  
+* The meaning of fundamental genetic terms such as allele/locus/genotype/genome
+* phenotype/trait and heritability  
+* How alleles and genes segregate  
+* How alleles and genes influence phenotype/trait display in organisms  
+* Exceptions to Mendelian genetics  
+* How molecular biology can be used to manipulate genes and genomics  
+* How Mendelian genetics and quantitative genetics are connected  
+* The information available from modern genomics technology  
 
 Students will be able to apply these concepts to solve genetic problems such as the following:
 
--        Given an organism with a defined trait and phenotypes, students will be able to determine genotype by examining the phenotype of progeny from any cross.
-
--        Predict the nature of the alleles and genes segregating in these crosses
-
--        State if these alleles and genes are segregating as Mendel predicted or explain why they deviate from these rules.
-
--        Calculate probability that a given phenotype will arise in a genetic cross.
-
--        Use pedigree information to predict the likelihood that a given individual will have a particular genetic disease.
-
--        Use genetic/phenotypic information to map genes relative to genetic, physical and phenotypic markers.
-
--        Using information about trait heritability make an informed statement about the progeny of any given cross.
-
+* Given an organism with a defined trait and phenotypes, students will be able to determine genotype by examining the phenotype of progeny from any cross.
+* Predict the nature of the alleles and genes segregating in these crosses
+* State if these alleles and genes are segregating as Mendel predicted or explain why they deviate from these rules.
+* Calculate probability that a given phenotype will arise in a genetic cross.
+* Use pedigree information to predict the likelihood that a given individual will have a particular genetic disease.
+* Use genetic/phenotypic information to map genes relative to genetic, physical and phenotypic markers.
+* Using information about trait heritability make an informed statement about the progeny of any given cross.
 
 
 ##Text
@@ -88,6 +82,10 @@ Lectures will predominantly be on the chalkboard. Copies of Dr. Ross-Ibarra's le
 Lectures will consist of ~70 minutes of lecture, followed by a 5 minute break. Each class, after the break, we will discuss part of a research paper from the primary scientific literature.
 
 You are welcome to make recordings of the lecture.
+
+## Papers
+
+We will read a scientific paper on genetics every week.  You are expected to read the paper, and the content of the papers will be on exams and quizzes. Reading scientific papers takes practice; don'treat this like reading a text.  Some good advice on reading scientific papers can be found online thanks to educators at [Rice](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf), [Arizona](http://www.biochem.arizona.edu/classes/bioc568/papers.htm), and even a flash video from [Purdue](https://www.lib.purdue.edu/help/tutorials/scientific-paper).  
 
 ## Grading
 
@@ -164,43 +162,74 @@ If you have enrolled in BIS 101D, you must attend the session in which you regis
 
 ### Thursday Oct. 16
 * **Quantitative Genetics**
-* Reading: Griffiths Ch. 19
+* Reading: Griffiths Ch. 3 section 3.4, Ch. 19 
 * Reading: [Schemske and Bradshaw 1999](http://www.pnas.org/content/96/21/11910.full.pdf)
 * Homework: Ch. 19: 8,12,13* 
 
-### Tuesday Oct. 2**
+### Tuesday Oct. 2
 * **Population Genetics**
 * Reading: Griffiths Ch. 18
 * Reading: [Johnston et al. 2013](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature12489.pdf)
 * Homework: Ch. 18: 10,18
-* 3
 
 ### Thursday Oct. 23
 * **Phylogenetics and Macroevolution**
 * Reading: Griffiths Ch. 14.5, 20
 * Reading: [Johnston et al. 2013](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature12489.pdf)
-* Homework Questions: Ch. 14: 25,26,27; Ch. 20: 21,22 
+* Homework Questions: Ch. 14: 26; Ch. 20: 21,22 
 	
 ### Tuesday Oct. 28 
-
+* **Genomics**
+* Reading: Griffiths Ch. 14
+* Homework Questions: Ch. 14: 24,25,27,35
 
 ### Thursday Oct. 30 
-	
+* **DNA and RNA**
+* Reading: Griffiths Ch. 7, 8
+* Reading: 
+* Homework: Ch. 7: 23, 27, 30	
 
 ### Tuesday Nov. 4 -- MIDTERM
 
 
 ### Thursday Nov. 6
-* **DNA and RNA**
-* Reading: Griffiths Ch. 7, 8
-* Reading: 
-* Homework: Ch. 7: 23, 27, 30
+* **Regulation of Gene Expression**
+* Reading: Griffiths Ch. 11
+* Reading: [Kudla et al. 2009](http://www.sciencemag.org/content/324/5924/255.full)
 
 
 ### Tuesday Nov. 11 -- HOLIDAY
 
 
 ### Thursday Nov. 13
+* **Regulation of Gene Expression**
+* Reading: Griffiths Ch. 12
+* Reading: 
+* Homework: Ch. 9: 12, 43
+	- Ch. 11: 9
+	- Ch. 12: 15, 30
+
+
+### Tuesday Nov. 18
+* **Proteins**
+* Reading: Griffiths Ch. 9
+* Homework: Ch. 10: 13, 18, 29; 
+* Reading: [Kudla et al. 2009](http://www.sciencemag.org/content/324/5924/255.full)
+
+### Thursday Nov. 20
+* **Development**
+* Reading: Griffiths Ch. 13
+	
+### Tuesday Nov. 25
+* **Gene Isolation and Manipulation**
+* Reading: Griffiths Ch. 13
+* Reading: 
+* Homework: Ch. 13: 9, 14
+	
+### Thursday Nov. 27 -- HOLIDAY
+* **No Class, University Holiday**
+
+### Tuesday Dec. 2
 * **Mutation and Recombination**
 * Reading: Griffiths Ch. 16
 * Reading: 
@@ -208,56 +237,20 @@ If you have enrolled in BIS 101D, you must attend the session in which you regis
 	- Ch. 8: 20,21,27
 	- Ch. 16: 8, 21
 
-### Tuesday Nov. 18
+### Thursday Dec. 4
 * **Transposable Elements**
 * Reading: Griffiths Ch. 10, 15
 * Reading: [Makarevitch et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/08/15/008052.full.pdf)
 * Homework: Ch. 10: 31, 32; Ch. 15: 11, 18
 
-### Thursday Nov. 20
+### Tuesday Dec. 9
 * **Chromosomal Evolution**
 * Reading: Griffiths Ch. 17
 * Reading: [Ibarra-Laclette et al. 2013](http://www.nature.com/nature/journal/v498/n7452/full/nature12132.html)
 * Homework: Ch. 17: 39, 44
-	
-### Tuesday Nov. 25
-* **Regulation of Gene Expression**
-* Reading: Griffiths Ch. 12
-* Reading: 
-* Homework: Ch. 9: 12, 43
-	- Ch. 11: 9
-	- Ch. 12: 15, 30
-	
-### Thursday Nov. 27 -- HOLIDAY
-* **No Class, University Holiday**
-
-### Tuesday Dec. 2
-* **Regulation of Gene Expression**
-* Reading: Griffiths Ch. 11
-* Reading: [Kudla et al. 2009](http://www.sciencemag.org/content/324/5924/255.full)
-
-### Thursday Dec. 4
-* **Proteins**
-* Reading: Griffiths Ch. 9
-* Homework: Ch. 10: 13, 18, 29; 
-* Reading: [Kudla et al. 2009](http://www.sciencemag.org/content/324/5924/255.full)
-
-### Tuesday Dec. 9
-* **Gene Isolation and Manipulation**
-* Reading: Griffiths Ch. 13
-* Reading: 
-* Homework: Ch. 13: 9, 14
 
 ### Thursday Dec. 11
-* **Forward and Reverse Genetics**
-* Reading: Griffiths Ch. 2, Ch. 10, Ch. 14 (especially 14.6)
-* Reading: [Studer et al. 2011](http://www.panzea.org/pdf/Studer_etal_2011_Nat_Genet_43_1160.pdf)
+TBD
 
 
-Skipped stuff: Chapter 5 (bacterial genetics)
-
-Other homework:
-	- Ch. 14: 34 
-	- Ch. 10: 22, 28
-	- Ch. 14: 15, 22, 24 
  

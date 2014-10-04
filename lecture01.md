@@ -1,47 +1,80 @@
-try to edit
-
 #BIS101 F2013 Lecture 1: Introduction
+
+Welcome to BIS101! Go over syllabus and launch into first (easy) lecture.
 
 ##Syllabus
 		
+On Smartsite, will be updated with lectures, homework, clarifications, new dates, etc.		
+		
 * #### Instructors
 	- **Ross-Ibarra**: evolutionary genetics of maize
-	- contact info (email, website, twitter, office hours)
-	- TA introduction, contact info, office hours
+	- contact info (email, website, twitter, office hours on board
+	- TA introduction, contact info, office hours on board
+	- no JRI office hours this week, start 9th (next Thursday)
+
+* #### Sections
+	- not required for lecture  
+	- required for some majors
+	- take lecture with this section of the course (002)
+
+* #### Course objectives
+ 	- understand how we get from DNA to phenotype
+ 	- how genes work at the molecular level
+ 	- methods and concepts geneticists use to make conclusions
+ 	- understand how to read genetics papers and evaluate research
+ 	- So next time you hear "the gene for baldness has been discovered" or "scientists discover dark matter of the genome" or read your 23 and me medical profile you'll be better equipped to understand and interpret this information.
+	- not interested in memorization
 
 * #### Text
-	- John/Sue
+	- required, hard to do course without as ref.  
+	- 10th edition: John/Sue, Transposable elements, pop and quant gen
+	- other editions OK, but don't have nifty new chapters
+	- but on reserve
+	- readings a good idea -- give background for lecture. you will be responsible for some material in book that is not covered in detail in lecture (e.g. mitosis/meiosis)
+	- some book material can skip (e.g. the section on penguins in chapter 6 is really dumb)
 	
 * #### Lectures
 	- note lecture order is not same as book order!
-	- some book material responsible (mitosis and meiosis)
-	- some book material can skip (section on bears in ch. 2)
-	- concepts not memorization (example of midterm Spring 2013)
+	- concepts not memorization (example of midterm Spring 2013 that I couldn't pass)
 	- my philosophy: appreciate genetics, know general concepts, can look rest up
-	- lecture notes on github: not for students, but pull requests!
-	- I suspect lectures will be pretty easy.
-* #### Grading
-	- Top 50% A or B
-* #### Exams
-	- takehome: also example of philosophy!
-	- no date yet, probably Oct. 24 or 31.
-* #### Homework
-	- For this week:
-		- Ch. 2: 23,38,48,49,54
-		- Ch. 3: 13,20,32,28,46
-* #### Class Participation
+	- lecture will be on chalk board (I'm old school), welcome to record
+	- lecture notes will be on smartsite, but when i can get to it
+	- how many know github? welcome to edit/correct my notes!
+	- if not, but catch an error or can think of better way to explain something, please tell me!
+
+* #### Paper discussion
 	- How many have read a scientific paper from the primary research lit?
-	- I said lectures are gonna be easy. Homework is a gimme. This is gonna be hard.
+	- This is gonna be hard for many.
+	- 70 minutes lecture, 5-10 minute break, 30 minutes on paper
+	- how to read a paper: links on syllabus. don't treat like text. read AT LEAST twice. once get general idea, mark stuff you don't understand.  then come back and work through parts you didn't get. don't assume authors are right. goal is to learn to evaluate their results and interpretation.
+	- pdfs will be online in resources section of smartsite
+	- I will post my annotated version of pdfs online.
+
+* #### Grading
+	- Curve based on current highest score.  Should work out to be ~50% of class getting B or higher.
+	
+* #### Exams
+	- i love takehomes. unfortunately...
+	- in class, 1 page handwritten
+	- let me know ahead of time if you need (and have documented) additional accomodations
+	
+* #### Quizzes
+	- quiz every day! 5 questions, written by TAs. 
+	- collaborative -- 1 min. to work with  neighbors to answer question
+	- turn in your own; bring paper. write student ID. no credit if we don't know who you are
+	- only ONE quiz each week will be graded
+	
+* #### Homework
+	- not required, not graded. solution manual in library on reserve
+	- good idea to do, can work through in office hours
+
+	
 * #### Academic honesty
 * #### Email Policy
-* #### Twitter
-	- particularly tweets favorited by other students
-* #### Feedback
-	- constructive always welcome: pull requests, suggested order, topics, style, etc.
 
 ## Reading
 
-For Tuesday can skip section 3.4
+For Tuesday read ch. 3.  Section 3.4 will is relevant for later lecture on quant gen.
 
 ## Definitions
 
@@ -49,8 +82,9 @@ Lots of vocab today.
 
 <strong style="font-size: 150%; color: red;">?</strong> Gene (draw example)
 
-* a piece of DNA that encodes transcribed sequence (and linked regulatory stuff)
-* regulatory elements (such as?) what about regulatory elements far away? (polydactyly example)
+* funamental unit of heredity
+* definition: a piece of DNA that encodes transcribed sequence and linked regulatory stuff
+* regulatory elements.  what about regulatory elements far away? (polydactyly example)
 * show box/line drawing (make me explain if not clear!)
  
 <strong style="font-size: 150%; color: red;">?</strong> Locus
@@ -61,25 +95,27 @@ Lots of vocab today.
 <strong style="font-size: 150%; color: red;">?</strong> Allele
 
 * a particular variant at a locus
-* examples -- 3 alleles at gene
+* examples -- 3 alleles at a gene
 	- TE insertion
 	- syn bp change
 	- frameshift del 1bp
-
-<strong style="font-size: 150%; color: red;">?</strong> Phenotype
-
-* what something looks like (molecular, morphology, enzyme, etc.)
-* form taken by a trait. e.g. if trait is height phenotype can be tall, short, 145cm, etc
+* my locus could be one bp, and have two alleles Adenine or Guanine
 
 <strong style="font-size: 150%; color: red;">?</strong> Genotype
 
 * alleles at a locus or loci of interest (including whole genome)
 
+<strong style="font-size: 150%; color: red;">?</strong> Phenotype
+
+* what something looks like (expression, morphology, enzyme atvitiy, behavior, etc.)
+* form taken by a trait. e.g. if trait is height phenotype can be tall, short, 145cm, etc
+
+
 <strong style="font-size: 150%; color: red;">?</strong> Omes: Genome, transcriptome, proteome, metabolome, etc.
 
 * lots of bad omes: "connectome" -- map of synapses and neurons etc.
 
-<!--## Organization & Ploidy
+## Organization & Ploidy
  
 ####Organization 
 
@@ -87,7 +123,7 @@ Genes not islands, but linked together along chromosomes
 
 * point out "junk" DNA that we'll return to
 	      
-<img src="./griffiths/ch01/figure_01_07.jpg" style="width: 400px;"/>
+<img src="/Users/jri/Documents/courses/bis101/griffiths//ch01/figure_01_07.jpg" style="width: 400px;"/>
 
 We will discuss genome organziation more later, but
 
@@ -104,6 +140,8 @@ But we actually have two different copies of the chromsomes, one from each paren
 Why 2? Humans are diploid. Meaning <strong style="font-size: 150%; color: red;">?</strong> 
 
 <strong style="font-size: 150%; color: red;">?</strong> Haploid? 
+
+<!--
 <strong style="font-size: 150%; color: red;">?</strong> Tetraploid? 
 
 Ploidy:
@@ -114,14 +152,6 @@ Ploidy:
 * 2n=2x=<strong style="font-size: 150%; color: red;">?</strong> 46 in humans
 * 2n=6x=42 in wheat?  explain <strong style="font-size: 150%; color: red;">?</strong>  hexaploid      -->  
 
-## Mitosis and Meiosis
-
-Nope, I assume you know: (if not come to office hours or TA)
-
-* When can recombination happen? 
-* Which process producess identical cells vs. different cells?
-* What is the number and ploidy of cells produced at the end?
-* Know main stages
 
 ## Genotypes and crosses
 
@@ -129,16 +159,16 @@ Crosses are fundamental to lots of genetic analysis, to understand gene action, 
 
 Often consider **diploid** individuals (but **haploid** bacteria too)
 
-* two alleles at a locus, written with abbreviations
+* in diploids two alleles at a locus, written with abbreviations, not always one letter
 	- A/a, Bg/Bg etc.  
 * <strong style="font-size: 150%; color: red;">?</strong> define: **heterozygote**, **homozygote**
 * **WT** weird term to mean the "normal" allele or phenotype
 * origin of variation by mutation: <strong style="font-size: 150%; color: red;">?</strong> what's a mutation?
 	- any change to the DNA sequence
 	- SNP
-	- indel
+	- insertion or deletion
 	- TE
-	- chromosomal
+	- chromosomal change
 * **Dominance:** the phenotype of het == phenotype of one hom.
 	- Big A ≠ dominant!
 	- if we know phenotype, but not genotype, can draw e.g. A/-
@@ -146,9 +176,22 @@ Often consider **diploid** individuals (but **haploid** bacteria too)
 	- **incomplete dominance** is phenotype is partial
 	- **codominance** both alleles show up (we will come back to these)
 * **testcross:** cross the dominant phenotype back to recessive homozygote **tester** to test it's genotype
-* **backcross:** cross progeny back to parent (ok in corn, we don't do crosses in humans!)
+* **backcross:** cross progeny back to parent (example of why plants rule: they don't let us do this in human genetics!)
 * **monoybrid cross** cross two indidividuals that are each het for a single locus. dihybrid, trihybrid etc.
 
+#### Introducing tb1
+
+Teosinte branched 1 is a locus we'll hear about multiple times throughout the course as a good example system.
+
+Also an example of confusing terminology.  Here the **WT** is what corn looks like!
+
+We'll define WT allele as tb1-M for maize, and the teosinte allele as tb1-T.
+
+**Draw phenotypes** of all three genotypes.
+
+<strong style="font-size: 150%; color: red;">?</strong> Is this dominant?  Haplosufficient? : example of incomplete dominance
+
+<!--
 #### tga1 Locus
 
 Locus controls glume architecture in maize.  
@@ -161,27 +204,58 @@ Lets imagine two individuals. Maize is diploid, so each has two alleles. Alleles
 
 Attempt to draw phenotypes for each genotype (Tga1/Tga1 naked, tga1/tga1 covered, het intermediate)
 
-<strong style="font-size: 150%; color: red;">?</strong> Which is tga1? (haploinsufficient)
+<strong style="font-size: 150%; color: red;">?</strong> Which is tga1? (haploinsufficient) -->
 
 ## Mendel's first law 
 
-Mendel crossed some peas. Figured out genetics.
+Mendel crossed some peas. Based on lots of careful examinations, lots of statistics, he figured out general rules of inhertiance. We'll see some exceptions, but by and large the dude was right.
 
-<strong style="font-size: 150%; color: red;">?</strong> First law: equal segregation. Alleles at a locus segregate w/ equal probability. An A/a individual will produce 50% A and 50% a.
+<strong style="font-size: 150%; color: red;">?</strong> First law: equal segregation. Alleles at a locus segregate w/ equal probability. An A_1/A_2 individual will produce 50% A_1 and 50% A_2.
+
+<strong style="font-size: 150%; color: red;">?</strong> What's the cellular basis for this?
+
+**Meiosis**
+
+Draw <img src="/Users/jri/Documents/courses/bis101/griffiths/ch02/figure_02_08.jpg" style="width: 500px;"/> label loci A1, A2.
+
+Different from mitosis (check out book for differences)
+
 
 #### Cross two corn plants
 
-Tga1/Tga1 x tga1/tga1 
-* label **parental**, **fileal** generation
-* <strong style="font-size: 150%; color: red;">?</strong> are all F1 alike?
+tb1-M/tb1-M x tb1-T/tb1-T
+* label **parental**, **fileal** generation  
+* <strong style="font-size: 150%; color: red;">?</strong> are all F1 alike? (yes, at this locus, what about others? unless we know it's inbred line, can't say)
 	       
-Draw Punnett square for tga1, show phenotypes. 1:2:1 -> codominant or incomplete dominance.
+Draw Punnett square for tb1, show phenotypes. 
 
-Redo for CENH3+. Show dominance. Then explain lethality. 3:1 dominance. 2:1 lethality!
+Note phenotype ratios ≠ genotype ratios!!
 
-Note the reciprocity of the cross. Doesn't matter if mom is Tga1 parent or tga1 parent.
+1:2:1 -> incomplete dominance. 
 
-Don't memorize these (might be useful but not necessary). You can look 'em up and figure 'em out.
+what if tb1-M were dominant<strong style="font-size: 150%; color: red;">?</strong>
+
+if tb1-M were recessive<strong style="font-size: 150%; color: red;">?</strong> 
+
+Redo for CENH3+. Explain recessive lethality. Do Cross.  3:1 dominance. 2:1 lethality!
+
+#### Example problem:
+
+	In the plant Arabidopsis thaliana, a geneticist is interested in the development of trichomes (define). A large screen turns up two mutant plants (A and B) that have no trichomes, and these mutants seem to be potentially useful in studying trichome development. Each plant is crossed with wild type; in both cases, the next generation (F1) had normal trichomes. When F1 plants were selfed, the resulting F2’s were as follows:
+
+Use H1 for WT allele and H2 mutant
+
+Draw hairy WT, and glabrous normal. Show F1. Ask genotpye of F1. <strong style="font-size: 150%; color: red;">?</strong> Don't know yet! What if mutant was heterozygous for a dominant mutation and both F1 got WT allele?
+
+Show F2:
+	F2 from mutant A: 602 normal; 198 no trichomes F2 from mutant B: 267 normal; 93 no trichomes.
+
+What does this show<strong style="font-size: 150%; color: red;">?</strong> Dominance! 3:1 segregation - H1 is dominant to H2
+
+What are genotypes of parents and F1?
+
+	b. Under your explanation to part a, is it possible to confidently predict the F1 from crossing the original mutant A with the original mutant B?
+
 
 ## Pedigrees
 
@@ -189,13 +263,23 @@ Draw pedigree, w/ male (square) female (circle), offspring.
 
 Affected filled, unaffected empty.
 
-Practice working with these, and calculating probabilities (we'll come back to prob next time)
+Practice working with these, and calculating probabilities (we'll come back to prob next time).
+
+Exploding ear disorder. Draw simple example: individual affected with WT parents. Ask what is probability that new ofspring would have disease<strong style="font-size: 150%; color: red;">?</strong> (1/4)
+
+Ch.2 problem 43: Very rare Mendelian disease.
+
+<img src="/Users/jri/Documents/courses/bis101/fall2014/images/pedigree1.jpg" style="width: 300px;"/>
+
+Likely to be dominant, or recessive<strong style="font-size: 150%; color: red;">?</strong> Dominant b/c for rece. mom would have to be het and dad homozygote for rare allele.
 
 ## Other forms of inheritance:
 
 #### sex linked
 
-above we have considered non-sex chromosomes, also called **autosomes**
+Notice reciprocity in crosses above.  This doesn't always happen!
+
+Above we have considered non-sex chromosomes, also called **autosomes**
 
 humans have two sex chromosomes X and Y. 1 from each parent, but XX is female, XY male. 
 
@@ -206,10 +290,10 @@ humans have two sex chromosomes X and Y. 1 from each parent, but XX is female, X
 Drosophila also have XY system
 
 * Draw Punnet square for w+/w+ Drosophila female (red WT) x w male
-* Compare to square for w+ male x w/w/ female (if time permits)
+* Compare to square for red w+ male x w/w/ female (if time permits)
 * For both show color, sex of F1 and F2 products
 
-<img src="./griffiths/ch02/figure_02_19.jpg" style="width: 500px;"/>
+<img src="/Users/jri/Documents/courses/bis101/griffiths/ch02/figure_02_19.jpg" style="width: 500px;"/>
 
 Reciprocal crosses not same for sex-linked traits
 
@@ -219,17 +303,16 @@ Ratios not the same because gene is not present on both chromosomes.
 
 #### organellar
 
-Mitochondria and chloroplast
-eukaryotes defined by presence of nucleus and organelles
+Eukaryotes defined by presence of nucleus and organelles
+Some phenotypes defined by organellar (Mitochondria and chloroplast) genes.
 
 ***Endosymbiosis***
-first eukaryotes likely formed as infoldings -> nucleus
+<!--- first eukaryotes likely formed as infoldings -> nucleus
 
 both mito and chloro originated as endosymbionts
 alpha-protobacteria or cyano taken up by archaea
 	* ribulose-1,5-biphosphate caroxylase oxygenase (top left)
 	* needed for photosynthesis, ~50% protein plants
-	* most abundant protein on earth (**good guess on protein question test**)
 	* made up of rbcL in chloroplast and rbcS subunit in nucleus
 
 aquisition of mito due to respiration in increasingly oxygenated environ.
@@ -244,23 +327,23 @@ heteroplasmy vs. homoplasmy
 
 by random replication/division 
 
-In plants, variegated branch flowers -> green/white/var. offspring  
+In plants, variegated branch flowers -> green/white/var. offspring  -->
 
-mito in mammals -- always maternal
+There are some mitochondrial diseases (some deafness, muscle myopathy)
 
-so mitochondrial diseases (some deafness, muscle myopathy)
+Mito in mammals -- always maternal
 
-<img src="./images/mito_pedigree.pdf" style="width: 500px;"/>
+<img src="/Users/jri/Documents/courses/bis101/fall2013/images/mito_pedigree.jpg" style="width: 500px;"/>
 
 **homoplasmy** and **heteroplasmy** which helps explain incomplete penetrance
 
 Not always maternal
 
-- redwoods both male
+- redwoods both mito and cp are male
 - some pine trees, cpDNA male, mtDNA female
 - mussels have double uniparental: F mito is maternal, M mito is paternal
 
-
+<!--
                                   
 ## How to read a scientific paper
 
@@ -298,4 +381,4 @@ General points
 * read at least twice: once for main ideas, second time to understand important details
 * not all details are important
 * authors (and scientists) are not infallible
-* it's OK not to understand every part of a paper
+* it's OK not to understand every part of a paper -->
