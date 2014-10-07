@@ -175,6 +175,17 @@ Often consider **diploid** individuals (but **haploid** bacteria too)
 	- Bob+/Bob+ == Bob+/Bob-, the gene is **haplosufficient**. If not, **haploinsufficient**.
 	- **incomplete dominance** is phenotype is partial
 	- **codominance** both alleles show up (we will come back to these)
+	
+	blargh locus expresses a protein that makes a horn in the middle of the head.
+
+	WT is single horn in middle (draw) H1 allele
+
+	Imcomplete dominance: mutant allele H2 fails to produce horn: H1H2 has a small horn
+
+	Codominance: mutant allele expressed in different tissues and makes horn on sides of head (draw). H1H2 has three horns (draw). 
+
+	H2 vs H3 <strong style="font-size: 150%; color: red;">?</strong> incompletely dominant
+
 * **testcross:** cross the dominant phenotype back to recessive homozygote **tester** to test it's genotype
 * **backcross:** cross progeny back to parent (example of why plants rule: they don't let us do this in human genetics!)
 * **monoybrid cross** cross two indidividuals that are each het for a single locus. dihybrid, trihybrid etc.
@@ -300,85 +311,3 @@ Reciprocal crosses not same for sex-linked traits
 Not all F1 will be the same
 
 Ratios not the same because gene is not present on both chromosomes.          
-
-#### organellar
-
-Eukaryotes defined by presence of nucleus and organelles
-Some phenotypes defined by organellar (Mitochondria and chloroplast) genes.
-
-***Endosymbiosis***
-<!--- first eukaryotes likely formed as infoldings -> nucleus
-
-both mito and chloro originated as endosymbionts
-alpha-protobacteria or cyano taken up by archaea
-	* ribulose-1,5-biphosphate caroxylase oxygenase (top left)
-	* needed for photosynthesis, ~50% protein plants
-	* made up of rbcL in chloroplast and rbcS subunit in nucleus
-
-aquisition of mito due to respiration in increasingly oxygenated environ.
-as oxygen increased in atmosphere -> aerobic respiration a plus
-
-some euks (giardia & some amoeba) have subsequently lost mito
-
-some lineages took up cyanobacteria -> photosynthesize
-
-#### Crosses and inheritance 
-heteroplasmy vs. homoplasmy  
-
-by random replication/division 
-
-In plants, variegated branch flowers -> green/white/var. offspring  -->
-
-There are some mitochondrial diseases (some deafness, muscle myopathy)
-
-Mito in mammals -- always maternal
-
-<img src="/Users/jri/Documents/courses/bis101/fall2013/images/mito_pedigree.jpg" style="width: 500px;"/>
-
-**homoplasmy** and **heteroplasmy** which helps explain incomplete penetrance
-
-Not always maternal
-
-- redwoods both mito and cp are male
-- some pine trees, cpDNA male, mtDNA female
-- mussels have double uniparental: F mito is maternal, M mito is paternal
-
-<!--
-                                  
-## How to read a scientific paper
-
-Begin with the intro:
-
-* what's the **BIG** question? Of the whole field?
-	- One of the big questions we will see lots in genetics: how does genotype make phenotype?
-* Summarize the background: what has been done, what needs to be done still?
-* Identify specific questions. Is there a null hypothesis (not every paper)?
-
-Now go to the methods
-
-* Identify the approach
-* Diagram or draw out what researchers did to answer individual parts of question.
-
-Then results 
-
-* Summarize each experiment, result, table (don't interpret, just summarize) 
-* Focus on figures and tables -- lots of good results there.
-* Supplementary info might be important too.
-* Think about stats: sample size, error bars, significance?
-* Do they answer the specific questions? Decide before moving on.
-
-Discussion/Conclusions 
-
-* What are authors interpretation of results?
-* Do you agree? What did they miss?
-
-Google away
-
-* Google scholar or web search -- is it cited? What do others say?
-
-General points
-
-* read at least twice: once for main ideas, second time to understand important details
-* not all details are important
-* authors (and scientists) are not infallible
-* it's OK not to understand every part of a paper -->
