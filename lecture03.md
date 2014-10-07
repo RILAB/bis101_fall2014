@@ -158,6 +158,8 @@ Epistasis vocab (know definition, but not worry about crosses on test)
 	- e.g. mutant that makes you inefficient at getting water from soil will show low penetrance in an irrigated system
 * **expressivity** how much expressed (little effect on drought tolerance or lots) varies among individuals
 
+(for mitochondrial traits **homoplasmy** and **heteroplasmy** which helps explain incomplete penetrance or expressivity)
+
 <img src="./griffiths/ch06/figure_06_22.jpg" style="width: 250px;"/>
 
 ## Example # 37 Ch6

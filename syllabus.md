@@ -118,7 +118,9 @@ Exams will be taken during the normal class (or final exam) period.  You will be
 If you feel that your exam grade is in error, you may ask for a regrade. At the TA's discretion your entire exam may be regraded, and experience shows students often lose points upon regrade; it is thus not advised to ask for a regrade unless you believe an actual error was made during grading. Due to constraints of turning in grades at the end of the quarter, there are no regrades on the second exam.
 
 ## Quizzes
-Five short quiz questions will be presented during each lecture.  You will have 1-2 minutes to answer each question, during which time you may discuss your answer with your peers.  At the end of each lecture you will turn in your 5 answers. Each week the TAs will choose one of the quizzes to grade, the other will not be graded.  Each question is worth one point, and because 10 of the 18 quizzes will be graded there will be a total of 50 possible quiz points. You will be allowed to make up a quiz in the case of documented excusable absences. Answers to the quiz will be discussed at the beginning of the following lecture.
+Five short quiz questions will be presented during each lecture.  You will have 1-2 minutes to answer each question, during which time you may discuss your answer with your peers.  At the end of each lecture you will turn in your 5 answers. Each week the TAs will choose one of the quizzes to grade, the other will not be graded.  Each question is worth one point, and because 10 of the 18 quizzes will be graded there will be a total of 50 possible quiz points. Answers to the quiz will be discussed at the beginning of the following lecture.
+
+If you have a documented excuse, you may contact Professor Ross-Ibarra or one of the TA's with evidence of your reasons for missing class and schedule a make-up quiz during office hours. 
 
 ## Homework
 Suggested homework problems are listed on the syllabus.  Homework is not required and will not be graded, but is recommended as it will help you prepare for quizzes and exams.
