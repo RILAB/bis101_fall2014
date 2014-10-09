@@ -26,11 +26,11 @@ H2 vs H3 <strong style="font-size: 150%; color: red;">?</strong> incompletely do
 
 **Review from lecture 1, dominance (before/as class starts?)**
 
-Cindy crosses an ivory petunia with a red petunia. The progeny appear as follows: 1/4 red petunias, 1/2 pink petunias, 1/4 ivory petunias. Which allele for flower color is dominant?
+Cindy crosses an ivory petunia with a red petunia and selfs the F1. The F2 appear as follows: 1/4 red petunias, 1/2 pink petunias, 1/4 ivory petunias. Write out the genotpyes of the F1 and the three different F2.
 
 **Continuation of question 1, dominance**
 
-If R represents the ivory allele, and r represents the red allele, draw a Punnet square consistent with the cross in question 1, and identify what flower color you expect each genotype to have.
+What is the dominance relationship between the ivory and red allele?
 	
 ## Other forms of inheritance:
 
@@ -111,6 +111,7 @@ Don't worry about Dihbyrid ratios with sex vs. autosomal loci
 
 In cats, short hair (S-) is dominant to long hair (ss), white fur color (W-) is dominant to colored fur (ww), and spots (PP) are incompletely dominant to no spots (pp). If you cross a true-breeding white long-haired cat with no spots to a true-breeding heavily-spotted short-haired cat, will the kittens have long or short hair?
 
+<!-- 
 ## Chi squared
 
 Reality never perfect, e.g. we see 267 vs 93 which we interpret as 3:1 (though not perfect 270:90). But would we interpret 280:80 or 290:70? 
@@ -134,7 +135,7 @@ value is 4.43 -> reject 3:1 ratio!
 
 Can use for equal segregation (numbers of big A and a in offspring from one locus, association among loci, population genetics, etc.)
 
-will return to Chi-squared for other things in the future.
+will return to Chi-squared for other things in the future. -->
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 ## Predictions: probability
 

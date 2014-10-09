@@ -168,7 +168,7 @@ Often consider **diploid** individuals (but **haploid** bacteria too)
 	- SNP
 	- insertion or deletion
 	- TE
-	- chromosomal change
+	- chromosomal change	
 * **Dominance:** the phenotype of het == phenotype of one hom.
 	- Big A ≠ dominant!
 	- if we know phenotype, but not genotype, can draw e.g. A/-
@@ -185,10 +185,23 @@ Often consider **diploid** individuals (but **haploid** bacteria too)
 	Codominance: mutant allele expressed in different tissues and makes horn on sides of head (draw). H1H2 has three horns (draw). 
 
 	H2 vs H3 <strong style="font-size: 150%; color: red;">?</strong> incompletely dominant
+	
+	incomplete dominance not the same as a **quantitative trait** e.g. human height is not incomplete dominance! because >1 locus is involved
+
+	human blood types good example of codominance (ignoring the Rh factor +/- here):
+	- 3 alleles, I^A, I^B, i
+	- I^A / (A or i) A blood type
+	- I^B / (B or i) B
+	- I^A / I^B AB type
+	- i/i O type
+	
+ at phenotypic level looks different from incomplete dominance
+ reality we treat dominance as a variable, where 0 is recessive and 1 is dominant
 
 * **testcross:** cross the dominant phenotype back to recessive homozygote **tester** to test it's genotype
 * **backcross:** cross progeny back to parent (example of why plants rule: they don't let us do this in human genetics!)
 * **monoybrid cross** cross two indidividuals that are each het for a single locus. dihybrid, trihybrid etc.
+
 
 #### Introducing tb1
 
