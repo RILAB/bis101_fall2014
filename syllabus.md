@@ -166,13 +166,13 @@ If you have enrolled in BIS 101D, you must attend the session in which you regis
 * **Quantitative Genetics**
 * Reading: Griffiths Ch. 3 section 3.4, Ch. 19 
 * Reading: [Schemske and Bradshaw 1999](http://www.pnas.org/content/96/21/11910.full.pdf)
-* Homework: Ch. 19: 8,12,13* 
+* Homework: Ch. 19: 8,10,12,13 
 
-### Tuesday Oct. 2
+### Tuesday Oct. 21
 * **Population Genetics**
 * Reading: Griffiths Ch. 18
 * Reading: [Johnston et al. 2013](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature12489.pdf)
-* Homework: Ch. 18: 10,18
+* Homework: Ch. 18: 8,10,11,18
 
 ### Thursday Oct. 23
 * **Phylogenetics and Macroevolution**
@@ -183,13 +183,14 @@ If you have enrolled in BIS 101D, you must attend the session in which you regis
 ### Tuesday Oct. 28 
 * **Genomics**
 * Reading: Griffiths Ch. 14
+* Readig: TBD
 * Homework Questions: Ch. 14: 24,25,27,35
 
 ### Thursday Oct. 30 
 * **DNA and RNA**
 * Reading: Griffiths Ch. 7, 8
-* Reading: 
-* Homework: Ch. 7: 23, 27, 30	
+* Readig: TBD
+* Homework: Ch. 7: 23, 27, 30; Ch. 8: 20,21,27
 
 ### Tuesday Nov. 4 -- MIDTERM
 
@@ -198,7 +199,7 @@ If you have enrolled in BIS 101D, you must attend the session in which you regis
 * **Regulation of Gene Expression**
 * Reading: Griffiths Ch. 11
 * Reading: [Kudla et al. 2009](http://www.sciencemag.org/content/324/5924/255.full)
-
+* Homework: Ch. 11: 2,9,11
 
 ### Tuesday Nov. 11 -- HOLIDAY
 
@@ -206,27 +207,26 @@ If you have enrolled in BIS 101D, you must attend the session in which you regis
 ### Thursday Nov. 13
 * **Regulation of Gene Expression**
 * Reading: Griffiths Ch. 12
-* Reading: 
-* Homework: Ch. 9: 12, 43
-	- Ch. 11: 9
-	- Ch. 12: 15, 30
-
+* Reading: [Kudla et al. 2009](http://www.sciencemag.org/content/324/5924/255.full)
+* Homeowrk: Ch. 12: 15, 23, 26, 30
 
 ### Tuesday Nov. 18
 * **Proteins**
 * Reading: Griffiths Ch. 9
-* Homework: Ch. 10: 13, 18, 29; 
-* Reading: [Kudla et al. 2009](http://www.sciencemag.org/content/324/5924/255.full)
+* Homework: Ch. 9: 12, 43
+* Reading: TBD
 
 ### Thursday Nov. 20
 * **Development**
 * Reading: Griffiths Ch. 13
+* Reading: TBD
+* Homework: Ch. 13: 9, 14
 	
 ### Tuesday Nov. 25
 * **Gene Isolation and Manipulation**
-* Reading: Griffiths Ch. 13
-* Reading: 
-* Homework: Ch. 13: 9, 14
+* Reading: Griffiths Ch. 10
+* Reading: TBD
+* Homework: Ch. 10: 13, 18, 29; 
 	
 ### Thursday Nov. 27 -- HOLIDAY
 * **No Class, University Holiday**
@@ -234,15 +234,13 @@ If you have enrolled in BIS 101D, you must attend the session in which you regis
 ### Tuesday Dec. 2
 * **Mutation and Recombination**
 * Reading: Griffiths Ch. 16
-* Reading: 
-* Homework: 
-	- Ch. 8: 20,21,27
-	- Ch. 16: 8, 21
+* Reading: TBD
+* Homework: Ch. 16: 8, 21
 
 ### Thursday Dec. 4
 * **Transposable Elements**
 * Reading: Griffiths Ch. 10, 15
-* Reading: [Makarevitch et al. 2014](http://biorxiv.org/content/biorxiv/early/2014/08/15/008052.full.pdf)
+* Reading: TBD
 * Homework: Ch. 10: 31, 32; Ch. 15: 11, 18
 
 ### Tuesday Dec. 9
@@ -252,7 +250,8 @@ If you have enrolled in BIS 101D, you must attend the session in which you regis
 * Homework: Ch. 17: 39, 44
 
 ### Thursday Dec. 11
-TBD
+* **TBD**
+* Reading: [Ibarra-Laclette et al. 2013](http://www.nature.com/nature/journal/v498/n7452/full/nature12132.html)
 
 
  
